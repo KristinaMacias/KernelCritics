@@ -21,3 +21,4 @@ export const fetchTrendingMovies = async () => {
 
 fetchTrendingMovies();
 
+
